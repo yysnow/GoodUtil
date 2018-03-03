@@ -1,1 +1,1 @@
-{"version":2,"force":0}
+{"version":2,"force":0,"apkUrl":"https://github.com/yysnow/GoodUtil/raw/master/frametest-debug.apk"}
